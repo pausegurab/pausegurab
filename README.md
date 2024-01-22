@@ -18,7 +18,10 @@ I am currently looking for internship opportunities where I can apply and expand
 
 ## 📫 How to Reach Me
 
-If you're interested in discussing potential opportunities, collaborating on projects, or just want to chat about tech-related topics, feel free to reach out.
+<p align="left">
+<a href="https://instagram.com/pausegurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pausegurab" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/pau-segura-ba%C3%B1os-4807382a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pausegurabaños" height="30" width="40" /></a>
+</p>
 
 Thank you for visiting my profile!
 
