@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently in my third year of a Computer Science degree. On this GitHub, you'll find a variety of works done during my university time, as well as personal projects I've embarked on.
+I'm currently in my fourth year of a Computer Science degree. On this GitHub, you'll find a variety of works done during my university time, as well as personal projects I've embarked on.
 
 I am known for my passion for learning, my ability to work well in a team, and my enthusiasm for embarking on personal projects. These traits not only define my academic and professional approach but also drive my personal and technical development.
 
