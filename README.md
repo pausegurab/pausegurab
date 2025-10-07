@@ -2,26 +2,26 @@
 
 ## 👨‍💻 About Me
 
-I'm currently in my fourth year of a Computer Science degree. On this GitHub, you'll find a variety of works done during my university time, as well as personal projects I've embarked on.
+I'm a **Computer Engineering graduate** with a strong passion for technology and software development.  
+On this GitHub, you'll find a variety of projects developed during my studies as well as personal projects that reflect my curiosity and constant desire to learn.
 
-I am known for my passion for learning, my ability to work well in a team, and my enthusiasm for embarking on personal projects. These traits not only define my academic and professional approach but also drive my personal and technical development.
+I’m known for being a **team player**, for my **enthusiasm for continuous learning**, and for taking initiative in **personal and collaborative projects**. These qualities have guided both my academic journey and my professional growth.
 
 ## 🌱 Interests and Passions
 
-- 📚 **Continuous Learning**: I am always eager to learn more and expand my knowledge.
-- 👥 **Teamwork**: I firmly believe in the power of collaboration to achieve great things.
-- 🚀 **Personal Projects**: I love applying what I've learned in my own projects.
+- 📚 **Continuous Learning**: Always eager to expand my knowledge and skills.  
+- 👥 **Teamwork**: I truly believe collaboration leads to the best results.  
+- 🚀 **Personal Projects**: I enjoy transforming ideas into real applications.
 
-## 🔍 Seeking Opportunities
+## 🔍 Looking for New Opportunities
 
-I am currently looking for internship opportunities where I can apply and expand my skills, make a meaningful contribution, and continue learning in the field of computer science.
+I’m currently seeking opportunities where I can **apply my knowledge**, **contribute to meaningful projects**, and **keep growing** as a software engineer.
 
 ## 📫 How to Reach Me
 
 <p align="left">
 <a href="https://instagram.com/pausegurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pausegurab" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/pau-segura-ba%C3%B1os-4807382a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pausegurabaños" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pau-segura-ba%C3%B1os-4807382a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pausegurabaños" height="30" width="40" /></a>
 </p>
 
 Thank you for visiting my profile!
-
